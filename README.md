@@ -29,7 +29,7 @@ It involves exploring the data and asking some key key questions such as:
 6. Join the necessary tables to find the total quantity of each pizza category ordered.
 7. Determine the distribution of orders by hour of the day.
 8. Join relevant tables to find the category-wise distribution of pizzas.
-9. Group the orders by date and calculate the average number of pizzas ordered per day.
+9. Group and calculate the average number of pizzas ordered per day.
 10. Determine the top 3 most ordered pizza types based on revenue.
 11. Calculate the percentage contribution of each pizza type to total revenue.
     
