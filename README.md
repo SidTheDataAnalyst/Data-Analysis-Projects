@@ -37,9 +37,9 @@ It involves exploring the data and asking some key key questions such as:
 
 ### Results/Findings
 ---
-1. The total number of orders placed are 21350
-2. The total revenue generated from pizza sales $ 8,17,860.05.
-3. The highest-priced pizza *The Greek Pizza	for $ 35.95
+1. The total number of orders placed are **21350**
+2. The total revenue generated from pizza sales **$ 8,17,860.05**.
+3. The highest-priced pizza **The Greek Pizza**	for **$ 35.95**.
 4. The most common pizza size ordered L(Large)	18526
 6. The top 5 most ordered pizza types along with their quantities
    - The Classic Deluxe Pizza	  2453
@@ -58,7 +58,7 @@ It involves exploring the data and asking some key key questions such as:
    - Veggie	  9
    - Classic	8
    - Chicken	6
-13. The average number of pizzas ordered per day *138.
+13. The average number of pizzas ordered per day **138**.
 14. The top 3 most ordered pizza types based on revenue
    - The Thai Chicken Pizza	        43434.25
    - The Barbecue Chicken Pizza	    42768
