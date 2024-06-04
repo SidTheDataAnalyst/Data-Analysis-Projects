@@ -7,11 +7,12 @@ Employing SQL techniques, this project delves into PizzaHut's sales database to 
 
 ### Data Source
 ---
-Sales data : The  four csv's contains primary datasets namely:
-              1. Order details
-              2. Orders
-              3. Pizza types
-              4. Pizzas
+Sales data : The  four csv's contains primary datasets [Datasets](pizza_types.zip):
+
+1. Order details
+2. Orders
+3. Pizza types
+4. Pizzas
 
 ### Tools Used
 ---
